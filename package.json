@@ -1,0 +1,25 @@
+{
+  "name": "dvbs",
+  "version": "0.1.0",
+  "description": "Docker volumes backup script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexboor/dvbs.git"
+  },
+  "keywords": [
+    "docker",
+    "node",
+    "backup",
+    "volumes"
+  ],
+  "author": "Alex Stolbov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexboor/dvbs/issues"
+  },
+  "homepage": "https://github.com/alexboor/dvbs#readme"
+}
