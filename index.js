@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-const Backup = require('./backup');
+const Backup = require('./lib/backup');
 
 const [,, ...args] = process.argv;
 
